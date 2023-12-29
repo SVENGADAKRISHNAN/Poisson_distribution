@@ -1,3 +1,5 @@
+DATE:
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,10 +32,17 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+ DEVELOPED BY S.VENGADA KRISHNAN
+
+ REG.NO:23006109
+
+ ![2](https://github.com/SVENGADAKRISHNAN/Poisson_distribution/assets/147473084/7fcd22de-776f-449b-a105-d0a3c1b50f1e)
+
 
 # Output : 
 
+
+![2 OUT](https://github.com/SVENGADAKRISHNAN/Poisson_distribution/assets/147473084/5909587a-c047-4c5b-95f5-267a2dea481d)
 
 
 # Results
