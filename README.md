@@ -34,7 +34,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
  DEVELOPED BY S.VENGADA KRISHNAN
 
- REG.NO:23006109
+ REG.NO:212223110061
 
  ![2](https://github.com/SVENGADAKRISHNAN/Poisson_distribution/assets/147473084/7fcd22de-776f-449b-a105-d0a3c1b50f1e)
 
